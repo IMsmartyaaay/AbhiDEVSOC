@@ -1,0 +1,6 @@
+The YouTube screen player could be a good example
+
+For someone who can’t hear, I’d redesign it to make captions more dynamic and expressive. Instead of static text, captions could use color-coded speech bubbles or icons indicating tone — for instance, blue for calm, red for excitement, or small vibration symbols for loud sounds. Background music could be visually represented by subtle waveform animations around the video frame, giving users a sense of rhythm and intensity without relying on sound.
+
+For someone with color blindness, I would have a mode with deeply contrasting colour schemes, maybe introduce shape and textural differences to indicate the change of shape and object on moving from one point to another.
+

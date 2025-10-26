@@ -1,0 +1,10 @@
+At the college Student Activity Center (SAC), there’s no way to know if the equipment I want is free. Many times, students walk 10 minutes to the gym only to find every treadmill or bench occupied — a frustrating waste of time.
+
+Redesigned Solution Screen:
+I’d design a “SAC Equipment Tracker” screen inside our campus app. When you open it, a clean, real-time dashboard appears — showing icons for all major equipment with live availability indicators: Available, In Use (ending soon),Occupied.
+
+Students can tap on any equipment to “book a 30-minute slot.” A soft reminder appears 5 minutes before their time starts, and once done, the system auto-frees the slot unless they extend it. The interface is minimal, using large touch-friendly buttons for accessibility and color-blind friendly patterns (stripes, dots) in addition to colors.
+
+There’s also a “Nearby Free Equipment” suggestion — if one item is busy, it shows an alternative in the same area.
+
+This small digital layer saves time, reduces crowding, and makes the gym and sac more inclusive and efficient — turning the 10-minute uncertainty walk into a quick, confident check.
